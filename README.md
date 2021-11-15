@@ -1,15 +1,11 @@
-<!-- <h3 align="center">Hi there👋   I'm Toshiki</h3>
+<h3 align="">Hi there👋   I'm Toshiki</h3>
 
-<p align="center">
+<p align="">
   <a href="https://toshikikamei.com">Photographer</a> •
-  <a href="https://toshikikamei.dev">Developer</a>
-</p> -->
+  Web Developer
+</p> 
 
-<!-- --- -->
+---
 
-### Hi there👋
-
-<!-- I am a Frontend developer
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zett-8&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)  -->
+- [🧑‍🎓　Study with me online](https://study-with-me.online)
 
